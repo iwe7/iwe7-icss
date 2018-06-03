@@ -7,8 +7,8 @@ import * as _ from "lodash";
 })
 export class Iwe7IcssService {
   state: any = {};
-  constructor() {}
-  init(ob: Observable<{ [key: string]: string }>, ele?: ElementRef) {
+  constructor() { }
+  init(ob: Observable<{ [key: string]: string }>, ele?: ElementRef): Observable<any> {
     // 合并流
     return ob.pipe(
       map(style => {
