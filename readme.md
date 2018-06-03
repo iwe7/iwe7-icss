@@ -14,5 +14,5 @@ Iwe7IcssService
 | iwe7-map  | 百度地图组件    | https://github.com/iwe7/iwe7-map  |
 | iwe7-im   | IM组件      | https://github.com/iwe7/iwe7-im   |
 | iwe7-icss | rxjs操作css | https://github.com/iwe7/iwe7-icss |
-
+| iwe7-core | 核心库       | https://github.com/iwe7/iwe7-core |
 
